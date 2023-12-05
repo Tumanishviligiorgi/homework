@@ -1,0 +1,24 @@
+.home{
+    background-color: violet;
+    color: white;
+    width: 400px;
+    height: 30px;
+}
+.away{
+background-color: blue;
+color: aliceblue;
+width: 400px;
+height: 30px;
+}
+.floor{
+    background-color: aqua;
+    color: black;
+    width: 400px;
+    height: 30px;
+}
+.table{
+    background-color: azure;
+    color: black;
+    width: 400px;
+    height: 30px;
+}
